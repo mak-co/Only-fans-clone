@@ -1,1 +1,113 @@
 node_modules
+
+<div class="  h-full">
+      <!-- Sidebar -->
+      <div class="w-64  bg-zinc-900 p-4  item bg-center h-screen">
+        <!-- Top Menu -->
+        <div>
+
+          <div class="img flex items-center gap-3 p-3 ">
+            <img 
+            src="./oflgo.png"  
+            alt="OnlyFans" 
+            class="w-2/3 h-auto" >
+         </div>
+
+          <ul class=" pb-4">
+            <li
+              class="group flex items-center rounded-xl gap-3 hover:bg-zinc-800 p-3 cursor-pointer"
+            >
+              <span class="material-symbols-outlined group-hover:text-cyan-500">
+                home
+              </span>
+
+              <span> Home </span>
+            </li>
+            <li
+              class="group flex items-center gap-3 hover:bg-zinc-800 p-3 rounded-xl cursor-pointer"
+            >
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> notifications </span>
+              <span>Notification</span>
+            </li>
+
+            <li
+              class="group flex items-center gap-3  hover:bg-zinc-800 p-3 rounded-xl cursor-pointer"
+            >
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> mail </span>
+              <span>Message</span>
+            </li>
+
+            
+
+            <li
+              class="group flex items-center gap-3  hover:bg-zinc-800 p-3 rounded-xl cursor-pointer"
+            >
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> bookmark </span>
+              <span>bookmark</span>
+            </li>
+
+            <li
+              class="group flex items-center gap-3  hover:bg-zinc-800 p-3 rounded-xl cursor-pointer"
+            >
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> List </span>
+              <span>List</span>
+            </li>
+
+            <li
+              class="group flex items-center gap-3  hover:bg-zinc-800 p-3 rounded-xl cursor-pointer"
+            >
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> Subscriptions </span>
+              <span>Subscriptions</span>
+            </li>
+
+        
+
+           
+            
+          </ul>
+        </div>
+
+        <!-- Bottom Menu -->
+
+        
+
+
+
+
+        <div>
+          <ul class=" border-t border-zinc-700 pt-4">
+            <li
+              class="group flex items-center gap-3  hover:bg-zinc-800 p-3 rounded-xl cursor-pointer" >
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> Person </span>
+              <span>Profile</span>
+               </li>
+              
+              
+              <li
+              class="group flex items-center gap-3  hover:bg-zinc-800 p-3 rounded-xl cursor-pointer">
+            
+              <span class="material-symbols-outlined group-hover:text-cyan-500"> account_Circle </span>
+              <span>Notification</span>
+            </li>
+
+           
+
+            <li
+              class="group flex items-center gap-3 hover:bg-zinc-800 p-3 rounded-xl cursor-pointer" >
+              <span  class="material-symbols-outlined group-hover:text-cyan-500">settings</span>
+              <span>Setting</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Main Content -->
+      <div class="flex-1 bg-zinc-950"></div>
+    
+
+
+    
+     
+
+
+    </div>
